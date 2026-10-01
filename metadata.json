@@ -1,0 +1,6 @@
+{
+  "name": "ប្រព័ន្ធគ្រប់គ្រងស្តុកសំភារៈអគ្គិសនី - Kang Meas Electricity",
+  "description": "ប្រព័ន្ធគ្រប់គ្រងស្តុកសំភារៈអគ្គិសនី តាមដានការលក់ ទំនិញចេញចូលដោយស្វ័យប្រវត្តិ និងរបាយការណ៍សង្ខេបប្រចាំថ្ងៃ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
